@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/Swastik232003/AWS-Session.git
+https://github.com/Swastik232003/Deployed-NodeJs-application.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
